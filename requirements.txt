@@ -16,3 +16,4 @@ web3==1.5.2
 aiohttp==0.2.8
 requests==0.2.8
 pydantic==0.2.9
+eth-abi==0.3.0
