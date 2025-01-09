@@ -18,3 +18,4 @@
 # optimize 8906
 # fix 1786
 # optimize 9010
+# refactor 6681
